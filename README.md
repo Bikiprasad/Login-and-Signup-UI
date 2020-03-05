@@ -1,4 +1,4 @@
-<h1>Login & Signup Activity Design</h1><br>
+<center><h1>Login & Signup Activity Design</h1></center><br>
 Login,Signup and Forget Password Activities Designs<br><br>
 <hr width="100%" height="2" color="#574CC9" >
 <div class="col-md-4">
