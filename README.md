@@ -1,6 +1,6 @@
 <center><h1>Login & Signup Activity Design</h1></center>
 <br>
-<img src="https://github.com/Bikiprasad/collegeproject/blob/master/Login.jpg"/>
+<img src="https://github.com/Bikiprasad/collegeproject/blob/master/Frame1.png"/>
 This repository contains the implementation of the Login, Signup and Forgot password UI in Android studio.
 All required files,images and styles are included in the repository and is ready to use.<br>
 Website:https://bikiprasad.github.io/Login-and-Signup-UI/<br>
